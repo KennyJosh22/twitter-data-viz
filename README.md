@@ -3,6 +3,8 @@
 Please open this link to view the interactive plots:
 https://nbviewer.jupyter.org/github/KennyJosh22/twitter-data-viz/blob/main/Remesh.ipynb
 
+#### When opening Remesh.ipynb in this repo and you get "Something went wrong" please reload it many times until it appears, it's just an ongoing problem with displaying Jupyter notebooks in GitHub that I can't do anything about it. 
+
 **Python Version used in the notebook:** Python 3.7.7
 
 **Audience Engagement Definition:**
