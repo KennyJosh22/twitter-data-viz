@@ -17,7 +17,7 @@ https://nbviewer.jupyter.org/github/KennyJosh22/twitter-data-viz/blob/main/Remes
 Cloning a github repository into your local machine can be found here [Clone repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository#cloning-a-repository-using-the-command-line). 
 
 
-For a local installation, make sure you have [Python 3.7.7](https://www.python.org/downloads/release/python-377/) installed and run this cmd in your bash/linux terminal:
+For a local installation, make sure you have [Python 3.7.7](https://www.python.org/downloads/release/python-377/) installed and run this cmd in your terminal:
 
     $ pip install notebook
 
